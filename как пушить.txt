@@ -1,5 +1,5 @@
 git init инициализируешь папку
-git remote add origin https://github.com/micizi/test.git 
+git remote add origin https://github.com/micizi/test.git это берёшь у чела
 
 git status проверка файлов
 git add . добавить файл
